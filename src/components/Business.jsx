@@ -3,7 +3,7 @@ import React from "react";
 export default function Business() {
     return (
         <div>
-            Business
+            <p>Billing</p>
         </div>
     )
 }

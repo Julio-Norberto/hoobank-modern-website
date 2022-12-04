@@ -3,7 +3,7 @@ import React from "react";
 export default function FeedBackCard() {
     return (
         <div>
-            FeedBackCard
+            <p>Billing</p>
         </div>
     )
 }

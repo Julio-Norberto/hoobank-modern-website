@@ -3,7 +3,7 @@ import React from "react";
 export default function GetStarted() {
     return (
         <div>
-            GetStarted
+            <p>Billing</p>
         </div>
     )
 }
